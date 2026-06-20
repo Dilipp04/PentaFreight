@@ -4,6 +4,10 @@ A frontend recreation of the Pentafreight website with responsive design and smo
 
 ---
 
+## Live Demo
+
+https://penta-freight-41c7kt3t2-dilipp04s-projects.vercel.app
+
 ## Project Overview
 
 This project recreates the following pages from the Pentafreight website:
